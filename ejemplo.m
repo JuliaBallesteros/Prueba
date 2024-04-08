@@ -2,7 +2,8 @@
 disp('Este es un script de prueba para sourcetree y github')
 disp('prueba3')
 
-%% cambio 
-disp('cambio usando github')
+%% cambio
+disp('cambio para commit desde sourcetree')
 
-% cambio desde branch1 para conflicto con main 
+%
+% prueba cambiio desde main que no llevarme a mi branch para generar conflict
