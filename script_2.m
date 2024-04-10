@@ -4,5 +4,5 @@
 % hemos hecho nosotros) 
 
 a = 1;
-b = 3;
+b = 4; % actualizado valor a 4 (desde branch julia) 
 c = a + b
