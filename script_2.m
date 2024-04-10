@@ -4,5 +4,9 @@
 % hemos hecho nosotros) 
 
 a = 1;
+<<<<<<< Updated upstream
 b = 3;
+=======
+b = 6; % actualizado valor a 6 (desde branch julia) 
+>>>>>>> Stashed changes
 c = a + b
